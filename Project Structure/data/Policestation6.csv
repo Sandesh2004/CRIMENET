@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Crime_Details,Crime_Date
+CAMP1,Arjun Kapoor,32,M,Robbery,15-05-2023
+CAMP2,Sakshi Desai,28,F,Burglary,22-06-2023
+CAMP3,Kabir Sharma,35,M,Assault,17-04-2023
+CAMP4,Kavita Reddy,28,F,Fraud,08-07-2023
+CAMP5,Samarth Singh,30,M,Narcotics,29-03-2023
+CAMP6,Avani Patel,29,F,Vandalism,10-08-2023
+CAMP7,Yuvraj Mehra,38,M,Forgery,05-05-2023
+CAMP8,Kiran Gupta,26,F,Theft,12-07-2023
+CAMP9,Alisha Singh,33,F,Drug Trafficking,18-09-2023
+CAMP10,Veer Deshmukh,31,M,Bribery,21-06-2023
+CAMP11,Mira Rajput,29,F,Credit Card Fraud,30-04-2023
+CAMP12,Vihan Khurana,34,M,Identity Theft,05-10-2023
+CAMP13,Aaradhya Verma,39,F,Money Laundering,25-02-2023
+CAMP14,Reyansh Sharma,25,M,Bribery,11-11-2023
+CAMP15,Khushi Bansal,36,F,Embezzlement,28-09-2023
+CAMP16,Rohan Kapoor,27,M,Drug Trafficking,19-06-2023
+CAMP17,Saisha Chopra,37,F,Extortion,14-08-2023
+CAMP18,Aadit Kumar,30,M,Corporate Espionage,23-07-2023
+CAMP19,Kaira Patel,34,F,Insider Trading,17-03-2023
+CAMP20,Dhairya Sharma,32,M,Tax Evasion,30-10-2023
+CAMP21,Aanya Bhatia,28,F,Identity Theft,05-11-2023
+CAMP22,Reeva Menon,27,F,Cyber Crime,01-12-2023
+CAMP23,Aayush Singh,38,M,Bank Robbery,16-06-2023
+CAMP24,Kashvi Iyer,26,F,Money Counterfeiting,21-07-2023
+CAMP25,Vihan Mehra,35,M,Kidnapping,19-08-2023
+CAMP26,Saisha Sharma,30,F,Blackmail,14-09-2023
+CAMP27,Veer Gupta,33,M,Public Corruption,25-10-2023
+CAMP28,Tara Patel,29,F,Smuggling,30-11-2023
+CAMP29,Kabir Menon,31,M,Domestic Violence,10-12-2023
+CAMP30,Avani Verma,37,F,Intellectual Property Theft,03-07-2023
+CAMP31,Aarav Singh,26,M,Fraudulent Schemes,09-04-2023
+CAMP32,Aashi Agarwal,34,F,Money Laundering,18-10-2023
+CAMP33,Veer Nair,28,M,Burglary,05-08-2023
+CAMP34,Aaradhya Singh,36,F,Bank Fraud,27-11-2023
+CAMP35,Yashvi Das,30,F,Identity Theft,25-12-2023
+CAMP36,Shaurya Mehta,27,M,Shoplifting,08-06-2023
+CAMP37,Khushi Sharma,33,F,Robbery,17-07-2023
+CAMP38,Aarav Kumar,31,M,Assault,22-08-2023
+CAMP39,Avni Patel,29,F,Drug Trafficking,30-09-2023
+CAMP40,Yug Mehra,40,M,Embezzlement,29-05-2023
+CAMP41,Aarushi Singh,26,F,Fraud,13-04-2023
+CAMP42,Reyansh Verma,35,M,Theft,08-10-2023
+CAMP43,Aisha Shah,27,F,Burglary,16-11-2023
+CAMP44,Arnav Mishra,30,M,Forgery,20-12-2023
+CAMP45,Kaira Das,32,F,Bribery,05-09-2023
+CAMP46,Reyansh Gupta,28,M,Identity Theft,02-07-2023
+CAMP47,Saavi Reddy,31,F,Money Laundering,12-06-2023
+CAMP48,Aadya Khanna,29,M,Narcotics,28-08-2023
+CAMP49,Kabir Sharma,34,F,Shoplifting,25-05-2023
+CAMP50,Yug Choudhary,36,M,Extortion,22-11-2023

@@ -27,5 +27,10 @@ The problem revolves around the inefficient management of police station resourc
     <li>Menu System with Police Authentication:
     </li>
     A menu system is developed with secure police authentication, including a hidden password feature. This system allows users to explore city information, find the nearest police station, search for criminals, and perform other relevant tasks while ensuring secure access to sensitive operations.
-
 </ol>
+<br>
+<h2>Usage</h2>
+<ul>
+    <li>Police Access: Authenticated users can insert, update, and search data.</li>
+    <li>Public Access: The public can access information about the city, find the nearest police station, and search for criminals without authentication.</li>
+</ul>

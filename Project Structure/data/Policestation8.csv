@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Crime_Details,Crime_Date
+NPS1,Vihaan Kumar,31,M,Burglary,01-05-2023
+NPS2,Khushi Gupta,29,F,Fraud,02-06-2023
+NPS3,Aarav Sharma,35,M,Assault,03-04-2023
+NPS4,Aanya Patel,28,F,Robbery,04-07-2023
+NPS5,Yuvika Singh,30,F,Narcotics,05-03-2023
+NPS6,Veer Arora,32,M,Vandalism,06-08-2023
+NPS7,Aaradhya Mehra,38,F,Forgery,07-05-2023
+NPS8,Vihaan Gupta,26,M,Theft,08-07-2023
+NPS9,Saisha Sharma,33,F,Drug Trafficking,09-09-2023
+NPS10,Anvi Chopra,31,F,Bribery,10-06-2023
+NPS11,Aadrika Nair,29,F,Credit Card Fraud,11-04-2023
+NPS12,Veeransh Khurana,34,M,Identity Theft,12-10-2023
+NPS13,Vihaan Reddy,39,M,Money Laundering,13-02-2023
+NPS14,Khwaish Chopra,25,F,Bribery,14-11-2023
+NPS15,Aadya Bansal,36,F,Embezzlement,15-09-2023
+NPS16,Aarush Mehra,27,M,Drug Trafficking,16-06-2023
+NPS17,Yuvraj Sharma,37,M,Extortion,17-08-2023
+NPS18,Anika Rastogi,30,F,Kidnapping,18-07-2023
+NPS19,Aanya Singh,34,F,Robbery,19-09-2023
+NPS20,Reyansh Kapoor,32,M,Assault,20-11-2023
+NPS21,Aaradhya Singh,28,F,Burglary,21-06-2023
+NPS22,Anvi Malhotra,36,F,Identity Theft,22-08-2023
+NPS23,Veeransh Patel,31,M,Drug Trafficking,23-10-2023
+NPS24,Saumya Das,29,F,Bribery,24-12-2023
+NPS25,Khushi Iyer,35,F,Robbery,25-08-2023
+NPS26,Aarav Mehta,33,M,Forgery,26-07-2023
+NPS27,Vedant Gupta,27,M,Burglary,27-09-2023
+NPS28,Yuvraj Chopra,30,M,Fraud,28-11-2023
+NPS29,Saisha Mishra,32,F,Embezzlement,29-07-2023
+NPS30,Ananya Agarwal,29,F,Theft,30-08-2023
+NPS31,Aarav Rajput,38,M,Assault,31-10-2023
+NPS32,Aarvi Kapoor,26,F,Drug Trafficking,01-12-2023
+NPS33,Anshika Mehra,34,F,Forgery,02-09-2023
+NPS34,Aanya Sharma,31,F,Kidnapping,03-07-2023
+NPS35,Vihaan Nair,27,M,Robbery,04-08-2023
+NPS36,Anaya Arora,37,F,Burglary,05-10-2023
+NPS37,Anshika Singh,33,F,Fraud,06-11-2023
+NPS38,Aarush Chopra,28,M,Embezzlement,07-09-2023
+NPS39,Yuvraj Khatri,35,M,Theft,08-07-2023
+NPS40,Aaradhya Sharma,32,F,Assault,09-08-2023
+NPS41,Veeransh Kapoor,30,M,Drug Trafficking,10-10-2023
+NPS42,Saumya Arora,36,F,Robbery,11-11-2023
+NPS43,Aadhya Patel,29,F,Burglary,12-12-2023
+NPS44,Veeransh Mehra,34,M,Forgery,13-09-2023
+NPS45,Khwaish Singh,31,F,Fraud,14-07-2023
+NPS46,Aarav Mehta,27,M,Embezzlement,15-08-2023
+NPS47,Yuvika Patel,34,F,Identity Theft,16-10-2023
+NPS48,Anshika Reddy,30,F,Drug Trafficking,17-11-2023
+NPS49,Aarav Gupta,36,M,Bribery,18-12-2023
+NPS50,Vihaan Sharma,32,M,Assault,19-09-2023

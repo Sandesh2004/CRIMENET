@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Crime_Details,Crime_Date
+UDM1,Vikram Singh,35,M,Robbery,2023-05-15
+UDM2,Asha Sharma,28,F,Burglary,2023-06-22
+UDM3,Rajesh Patel,40,M,Assault,2023-04-17
+UDM4,Deepika Verma,22,F,Fraud,2023-07-08
+UDM5,Rahul Kapoor,30,M,Narcotics,2023-03-29
+UDM6,Priya Mishra,33,F,Vandalism,2023-08-10
+UDM7,Arjun Tiwari,45,M,Forgery,2023-05-05
+UDM8,Pooja Gupta,26,F,Theft,2023-07-12
+UDM9,Karan Malhotra,29,M,Drug Trafficking,2023-09-18
+UDM10,Anjali Joshi,31,F,Bribery,2023-06-21
+UDM11,Amit Kumar,33,M,Credit Card Fraud,2023-04-30
+UDM12,Neha Singh,28,F,Identity Theft,2023-10-05
+UDM13,Dev Patel,39,M,Money Laundering,2023-02-25
+UDM14,Kavita Rao,25,F,Bribery,2023-11-11
+UDM15,Vivek Shah,36,M,Embezzlement,2023-09-28
+UDM16,Meera Sharma,29,F,Drug Trafficking,2023-06-19
+UDM17,Ajay Khanna,37,M,Extortion,2023-08-14
+UDM18,Nisha Gupta,30,F,Corporate Espionage,2023-07-23
+UDM19,Prakash Reddy,34,M,Insider Trading,2023-03-17
+UDM20,Ananya Chatterjee,32,F,Tax Evasion,2023-10-30
+UDM21,Siddharth Bhat,28,M,Identity Theft,2023-11-05
+UDM22,Indira Menon,27,F,Cyber Crime,2023-12-01
+UDM23,Harish Singh,38,M,Bank Robbery,2023-06-16
+UDM24,Maya Iyer,26,F,Money Counterfeiting,2023-07-21
+UDM25,Rahul Mehra,35,M,Kidnapping,2023-08-19
+UDM26,Anjali Sharma,30,F,Blackmail,2023-09-14
+UDM27,Arvind Gupta,33,M,Public Corruption,2023-10-25
+UDM28,Kiran Patel,29,F,Smuggling,2023-11-30
+UDM29,Manju Khurana,31,F,Domestic Violence,2023-12-10
+UDM30,Rajiv Verma,37,M,Intellectual Property Theft,2023-07-03
+UDM31,Prerna Singh,26,F,Fraudulent Schemes,2023-04-09
+UDM32,Vivek Agarwal,34,M,Money Laundering,2023-10-18
+UDM33,Asha Nair,28,F,Burglary,2023-08-05
+UDM34,Vikas Singh,36,M,Bank Fraud,2023-11-27
+UDM35,Anushka Das,30,F,Identity Theft,2023-12-25
+UDM36,Shivam Mehta,27,M,Shoplifting,2023-06-08
+UDM37,Neha Sharma,33,F,Robbery,2023-07-17
+UDM38,Aditya Kumar,31,M,Assault,2023-08-22
+UDM39,Shreya Patel,29,F,Drug Trafficking,2023-09-30
+UDM40,Rajesh Kumar,40,M,Embezzlement,2023-05-29
+UDM41,Akansha Singh,26,F,Fraud,2023-04-13
+UDM42,Vivek Verma,35,M,Theft,2023-10-08
+UDM43,Kritika Shah,27,F,Burglary,2023-11-16
+UDM44,Rajat Mishra,30,M,Forgery,2023-12-20
+UDM45,Ananya Das,32,F,Bribery,2023-09-05
+UDM46,Arnav Gupta,28,M,Identity Theft,2023-07-02
+UDM47,Sneha Reddy,31,F,Money Laundering,2023-06-12
+UDM48,Kartik Khanna,29,M,Narcotics,2023-08-28
+UDM49,Khushi Sharma,34,F,Shoplifting,2023-05-25
+UDM50,Rahul Choudhary,36,M,Extortion,2023-11-22

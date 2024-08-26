@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Crime_Details,Crime_Date
+APMC1,Aarush Sharma,27,M,Robbery,01-05-2023
+APMC2,Adhira Gupta,30,F,Fraud,02-06-2023
+APMC3,Aarav Tiwari,33,M,Embezzlement,03-04-2023
+APMC4,Aashi Singh,32,F,Burglary,04-07-2023
+APMC5,Aaryan Patel,29,M,Forgery,05-03-2023
+APMC6,Aashvi Reddy,35,F,Assault,06-08-2023
+APMC7,Advik Kumar,28,M,Kidnapping,07-05-2023
+APMC8,Anaya Mehra,31,F,Identity Theft,08-07-2023
+APMC9,Aradhya Kapoor,26,F,Robbery,09-09-2023
+APMC10,Aarna Singh,34,F,Burglary,10-06-2023
+APMC11,Aarav Jain,29,M,Fraud,11-04-2023
+APMC12,Anika Tiwari,33,F,Embezzlement,12-10-2023
+APMC13,Aaditya Singh,28,M,Burglary,13-02-2023
+APMC14,Aaradhya Khanna,30,F,Forgery,14-11-2023
+APMC15,Aarush Iyer,31,M,Assault,15-09-2023
+APMC16,Advait Singh,27,M,Kidnapping,16-06-2023
+APMC17,Aditi Reddy,34,F,Fraud,17-08-2023
+APMC18,Aadi Patel,29,M,Robbery,18-07-2023
+APMC19,Aarav Singh,32,M,Embezzlement,19-09-2023
+APMC20,Aanya Mehra,30,F,Forgery,20-11-2023
+APMC21,Aarush Sharma,28,M,Burglary,21-06-2023
+APMC22,Adhira Tiwari,31,F,Fraud,22-08-2023
+APMC23,Anvi Verma,27,F,Identity Theft,23-10-2023
+APMC24,Aadya Nair,32,F,Embezzlement,24-12-2023
+APMC25,Arjun Kapoor,29,M,Robbery,25-08-2023
+APMC26,Aarav Mehra,33,M,Kidnapping,26-07-2023
+APMC27,Aditi Gupta,28,F,Burglary,27-09-2023
+APMC28,Advik Patel,31,M,Fraud,28-11-2023
+APMC29,Aarush Singh,27,M,Embezzlement,29-07-2023
+APMC30,Aadya Sharma,30,M,Forgery,30-08-2023
+APMC31,Aarav Gupta,32,M,Assault,31-10-2023
+APMC32,Anvi Shah,29,F,Burglary,01-12-2023
+APMC33,Aarav Patel,34,M,Robbery,02-09-2023
+APMC34,Adhira Tiwari,31,F,Fraud,03-07-2023
+APMC35,Aarav Reddy,28,M,Embezzlement,04-08-2023
+APMC36,Aditi Singh,33,F,Kidnapping,05-10-2023
+APMC37,Aarav Kumar,30,M,Identity Theft,06-11-2023
+APMC38,Aashi Mehra,27,F,Burglary,07-09-2023
+APMC39,Advik Shah,32,M,Fraud,08-07-2023
+APMC40,Aarav Singh,35,M,Robbery,09-08-2023
+APMC41,Anaya Kapoor,28,F,Embezzlement,10-10-2023
+APMC42,Aarna Singh,30,F,Forgery,11-11-2023
+APMC43,Aarush Mehra,33,M,Burglary,12-12-2023
+APMC44,Adhira Gupta,29,M,Fraud,13-09-2023
+APMC45,Aaditya Sharma,31,M,Assault,14-07-2023
+APMC46,Aditi Patel,28,F,Embezzlement,15-08-2023
+APMC47,Aarav Sharma,34,M,Robbery,16-10-2023
+APMC48,Adhira Singh,30,F,Forgery,17-11-2023
+APMC49,Aarna Gupta,32,F,Burglary,18-12-2023
+APMC50,Aditi Mehra,29,F,Fraud,19-09-2023

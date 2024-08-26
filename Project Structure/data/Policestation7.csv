@@ -1,0 +1,51 @@
+ID,Name,Age,Gender,Crime_Details,Crime_Date
+MPS1,Veeransh Kohli,32,M,Robbery,15-05-2023
+MPS2,Saumya Rastogi,28,F,Burglary,22-06-2023
+MPS3,Aarav Kapoor,35,M,Assault,17-04-2023
+MPS4,Ishita Singh,28,F,Fraud,08-07-2023
+MPS5,Swayam Kumar,30,M,Narcotics,29-03-2023
+MPS6,Aadya Malhotra,29,F,Vandalism,10-08-2023
+MPS7,Yashika Suri,38,F,Forgery,05-05-2023
+MPS8,Darsh Gupta,26,M,Theft,12-07-2023
+MPS9,Anika Sethi,33,F,Drug Trafficking,18-09-2023
+MPS10,Vedant Patel,31,M,Bribery,21-06-2023
+MPS11,Trisha Arora,29,F,Credit Card Fraud,30-04-2023
+MPS12,Aaryan Khurana,34,M,Identity Theft,05-10-2023
+MPS13,Prachi Sharma,39,F,Money Laundering,25-02-2023
+MPS14,Veeraj Gupta,25,M,Bribery,11-11-2023
+MPS15,Ahaana Bansal,36,F,Embezzlement,28-09-2023
+MPS16,Anshul Kapoor,27,M,Drug Trafficking,19-06-2023
+MPS17,Anshika Chopra,37,F,Extortion,14-08-2023
+MPS18,Sai Mehta,30,F,Kidnapping,01-07-2023
+MPS19,Reyansh Khatri,34,M,Robbery,16-09-2023
+MPS20,Avani Sharma,32,F,Assault,29-11-2023
+MPS21,Aaradhya Nair,28,F,Burglary,07-06-2023
+MPS22,Veeransh Singh,36,M,Identity Theft,22-08-2023
+MPS23,Vaani Malhotra,31,F,Drug Trafficking,30-10-2023
+MPS24,Aarav Das,29,M,Bribery,09-12-2023
+MPS25,Reyansh Iyer,35,M,Robbery,28-08-2023
+MPS26,Anvi Singh,33,F,Forgery,15-07-2023
+MPS27,Yash Mehta,27,M,Burglary,05-09-2023
+MPS28,Khushi Chopra,30,F,Fraud,19-11-2023
+MPS29,Arjun Mishra,32,M,Embezzlement,27-07-2023
+MPS30,Aanya Agarwal,29,F,Theft,17-08-2023
+MPS31,Aadit Rajput,38,M,Assault,14-10-2023
+MPS32,Aarvi Kapoor,26,F,Drug Trafficking,28-11-2023
+MPS33,Aarush Mehra,34,M,Forgery,23-09-2023
+MPS34,Khushi Sharma,31,F,Kidnapping,10-07-2023
+MPS35,Aadrika Nair,27,F,Robbery,02-08-2023
+MPS36,Vihaan Arora,37,M,Burglary,09-10-2023
+MPS37,Khwaish Singh,33,F,Fraud,24-11-2023
+MPS38,Pranav Mehta,28,M,Embezzlement,15-09-2023
+MPS39,Saisha Khatri,35,F,Theft,05-07-2023
+MPS40,Yuvraj Sharma,32,M,Assault,31-08-2023
+MPS41,Anaisha Das,30,F,Drug Trafficking,23-10-2023
+MPS42,Vihaan Chopra,36,M,Robbery,12-11-2023
+MPS43,Khushi Rajput,29,F,Burglary,18-12-2023
+MPS44,Aarush Mehra,34,M,Forgery,04-09-2023
+MPS45,Veeransh Singh,31,M,Fraud,11-07-2023
+MPS46,Khushi Arora,27,F,Embezzlement,27-08-2023
+MPS47,Aadrika Patel,34,F,Identity Theft,03-10-2023
+MPS48,Yuvika Reddy,30,F,Drug Trafficking,20-11-2023
+MPS49,Arnav Gupta,36,M,Bribery,26-12-2023
+MPS50,Vihaan Sharma,32,M,Assault,10-09-2023
